@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d89c5559-9477-460b-833b-463602d41da8" name="Default Changelist" comment="1111" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/v16-basic/v16-mapper/target/" />
+    <ignored path="$PROJECT_DIR$/v16-service/target/" />
+    <ignored path="$PROJECT_DIR$/v16-web/target/" />
+    <ignored path="$PROJECT_DIR$/v16-service/v16-product-service/target/" />
+    <ignored path="$PROJECT_DIR$/v16-api/v16-product-api/target/" />
+    <ignored path="$PROJECT_DIR$/v16-basic/v16-entity/target/" />
+    <ignored path="$PROJECT_DIR$/v16-api/target/" />
+    <ignored path="$PROJECT_DIR$/v16-basic/target/" />
+    <ignored path="$PROJECT_DIR$/v16-basic/v16-common/target/" />
+    <ignored path="$PROJECT_DIR$/v16-web/v16-background/target/" />
+    <ignored path="$PROJECT_DIR$/v16-temp/target/" />
+    <ignored path="$PROJECT_DIR$/v16-temp/springboot-fastdfs/target/" />
+    <ignored path="$PROJECT_DIR$/v16-web/v16-home/target/" />
+    <ignored path="$PROJECT_DIR$/v16-temp/springboot-solr/target/" />
+    <ignored path="$PROJECT_DIR$/v16-api/v16-search-api/target/" />
+    <ignored path="$PROJECT_DIR$/v16-service/v16-search-service/target/" />
+    <ignored path="$PROJECT_DIR$/v16-web/v16-search/target/" />
+    <ignored path="$PROJECT_DIR$/v16-temp/springboot-freemarker/target/" />
+    <ignored path="$PROJECT_DIR$/v16-web/v16-item/target/" />
+    <ignored path="$PROJECT_DIR$/v16-temp/rebbitmq-java/target/" />
+    <ignored path="$PROJECT_DIR$/v16-temp/rebbitmq-springboot/target/" />
+    <ignored path="$PROJECT_DIR$/v16-temp/jedis/target/" />
+    <ignored path="$PROJECT_DIR$/v16-temp/springdata-redis/target/" />
+    <ignored path="$PROJECT_DIR$/v16-temp/springboot-redis/target/" />
+    <ignored path="$PROJECT_DIR$/v16-api/v16-user-api/target/" />
+    <ignored path="$PROJECT_DIR$/v16-service/v16-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/v16-web/v16-oos/target/" />
+    <ignored path="$PROJECT_DIR$/v16-web/v16-sso/target/" />
+    <ignored path="$PROJECT_DIR$/v16-temp/springboot-email/target/" />
+    <ignored path="$PROJECT_DIR$/v16-temp/jwt/target/" />
+    <ignored path="$PROJECT_DIR$/v16-api/v16-cart-api/target/" />
+    <ignored path="$PROJECT_DIR$/v16-service/v16-cart-service/target/" />
+    <ignored path="$PROJECT_DIR$/v16-web/v16-cart/target/" />
+    <ignored path="$PROJECT_DIR$/v16-web/v16-order/target/" />
+    <ignored mask="*.iml" />
+    <ignored mask="mvnw" />
+    <ignored mask="mvnw.cmd" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="v16" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v16-temp/springdata-redis/src/main/resources/redis.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v16-temp/springdata-redis/src/main/java/com/qf/spring_data_redis/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v16-temp/springdata-redis/src/test/java/com/qf/springdataredis/RedisTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="682">
+              <caret line="42" column="59" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v16-temp/springboot-freemarker/src/test/java/com/qf/springbootfreemarker/SpringbootFreemarkerApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v16-service/v16-product-service/src/main/java/com/qf/v16productservice/config/CommonConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v16-basic/v16-mapper/src/main/java/com/qf/v16/mapper/TCartMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v16-basic/v16-mapper/src/main/java/com/qf/v16/mapper/TProductDescMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/v16-basic/v16-mapper/src/main/java/com/qf/v16/mapper/TProductMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/v16-basic/v16-mapper/src/main/java/com/qf/v16/mapper/TProductMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3476">
+              <caret line="158" column="2" selection-start-line="158" selection-start-column="2" selection-end-line="158" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>TProductDesc</find>
+      <find>TProductDes</find>
+      <find>IBaseService</find>
+      <find>tr</find>
+      <find>shop-ul-tu shop-ul-tu1</find>
+      <find>sc</find>
+      <find>script</find>
+      <find>result</find>
+      <find>2.1.7.RELEASE</find>
+      <find>登录</find>
+      <find>login</find>
+      <find>setIssuedAt</find>
+      <find>creatDate</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>td</replace>
+      <replace>document</replace>
+      <replace>updateDate</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/v16-service/v16-user-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/v16-basic/v16-entity/src/main/java/com/qf/v16/entity/TUser.java" />
+        <option value="$PROJECT_DIR$/v16-basic/v16-mapper/src/main/java/com/qf/v16/mapper/TUserMapper.xml" />
+        <option value="$PROJECT_DIR$/v16-service/v16-user-service/src/main/java/com/qf/v16userservice/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-oos/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/v16-service/v16-user-service/src/main/java/com/qf/v16userservice/V16UserServiceApplication.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-sso/src/main/java/com/qf/v16oos/V16OosApplication.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-sso/src/main/java/com/qf/v16oos/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/v16-service/v16-product-service/src/main/java/com/qf/v16productservice/V16ProductServiceApplication.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-sso/src/main/java/com/qf/v16sso/V16SsoApplication.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-sso/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-sso/src/main/resources/templates/login.html" />
+        <option value="$PROJECT_DIR$/v16-web/v16-home/src/main/resources/templates/home.html" />
+        <option value="$PROJECT_DIR$/v16-service/v16-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-temp/jwt/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-temp/jwt/src/test/java/com/qf/jwt/JWTTest.java" />
+        <option value="$PROJECT_DIR$/v16-service/v16-user-service/src/main/java/com/qf/v16userservice/util/JWTUtil.java" />
+        <option value="$PROJECT_DIR$/v16-service/v16-user-service/src/test/java/com/qf/v16userservice/V16UserServiceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/v16-api/v16-cart-api/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-api/v16-cart-api/src/main/java/com/qf/service/CartService.java" />
+        <option value="$PROJECT_DIR$/v16-api/v16-cart-api/src/main/java/com/qf/api/CartService.java" />
+        <option value="$PROJECT_DIR$/v16-service/v16-cart-service/src/main/java/com/qf/v16cartservice/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/v16-service/v16-cart-service/src/main/java/com/qf/v16cartservice/V16CartServiceApplication.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-cart/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-cart/src/main/java/com/qf/v16cart/V16CartApplication.java" />
+        <option value="$PROJECT_DIR$/v16-service/v16-cart-service/src/main/java/com/qf/v16cartservice/pojo/CartItem.java" />
+        <option value="$PROJECT_DIR$/v16-api/v16-cart-api/src/main/java/com/qf/api/pojo/CartItem.java" />
+        <option value="$PROJECT_DIR$/v16-service/v16-cart-service/src/test/java/com/qf/v16cartservice/V16CartServiceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/v16-api/v16-user-api/src/main/java/com/qf/v16/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/v16-service/v16-cart-service/src/main/java/com/qf/v16cartservice/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/v16-service/v16-cart-service/src/main/java/com/qf/v16cartservice/interceptor/AuthInterceptor.java" />
+        <option value="$PROJECT_DIR$/v16-service/v16-cart-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/v16-service/v16-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-cart/src/main/java/com/qf/v16cart/interceptor/AuthInterceptor.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-cart/src/main/java/com/qf/v16cart/config/WebConfig.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-sso/src/main/java/com/qf/v16sso/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/v16-api/v16-cart-api/src/main/java/com/qf/api/ICartService.java" />
+        <option value="$PROJECT_DIR$/v16-service/v16-user-service/src/main/java/com/qf/v16userservice/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-order/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-order/src/main/java/com/qf/v16order/V16OrderApplication.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-order/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-order/src/main/java/com/qf/v16order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/v16-basic/v16-mapper/src/main/java/com/qf/v16/mapper/TCartMapper.java" />
+        <option value="$PROJECT_DIR$/v16-service/v16-cart-service/src/main/java/com/qf/v16cartservice/service/CartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-basic/v16-common/src/main/java/com/qf/v16/common/base/constant/RabbitMQConstant.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-cart/src/main/java/com/qf/v16cart/config/RabbitMQConfig.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-cart/src/main/java/com/qf/v16cart/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/v16-web/v16-background/src/main/java/com/qf/v16background/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/v16-service/v16-product-service/src/main/java/com/qf/v16productservice/config/CommonConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/软件/apache-maven-3.1.1/apache-maven-3.1.1" />
+        <option name="userSettingsFile" value="D:\软件\apache-maven-3.1.1\apache-maven-3.1.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="v16-cart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-100" />
+    <option name="y" value="75" />
+    <option name="width" value="1940" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-service" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-product-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-service" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-service" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-service" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-service" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="v16productservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-service" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="v16productservice" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-temp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-temp" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot-freemarker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-temp" type="462c0819:PsiDirectoryNode" />
+              <item name="springdata-redis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-temp" type="462c0819:PsiDirectoryNode" />
+              <item name="springdata-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-background" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="v16background" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="v16background" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="v16background" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-background" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="v16search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="v16search" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="v16search" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="v16" type="b2602c69:ProjectViewProjectNode" />
+              <item name="v16" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-web" type="462c0819:PsiDirectoryNode" />
+              <item name="v16-search" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="v16search" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\项目\v16\v16-basic\v16-mapper\src\main\java\com\qf\v16\mapper" />
+      <recent name="D:\项目\v16\v16-web\v16-sso\src\main\resources\templates" />
+      <recent name="D:\项目\v16\v16-web\v16-sso\src\main\resources\static" />
+      <recent name="D:\项目\v16\v16-temp\rebbitmq-java\src\main\java\com\qf\rabbitmq\direct" />
+      <recent name="D:\项目\v16\v16-temp\rebbitmq-java\src\main\java\com\qf\rabbitmq\fanout" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qf.v16.entity" />
+      <recent name="com.qf.v16cart.config" />
+      <recent name="com.qf.v16cart.interceptor" />
+      <recent name="com.qf.api.pojo" />
+      <recent name="com.qf.rabbitmq.work" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\项目\v16\v16-web\v16-background\src\main\resources\static\js" />
+      <recent name="D:\项目\v16\v16-web\v16-background\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.27322406" />
+  </component>
+  <component name="RunManager" selected="JUnit.V16CartServiceApplicationTests.testQuery">
+    <configuration name="V16CartServiceApplicationTests.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="v16-cart-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.v16cartservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.v16cartservice" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.v16cartservice.V16CartServiceApplicationTests" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16CartServiceApplicationTests.testDel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="v16-cart-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.v16cartservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.v16cartservice" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.v16cartservice.V16CartServiceApplicationTests" />
+      <option name="METHOD_NAME" value="testDel" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16CartServiceApplicationTests.testQuery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="v16-cart-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.v16cartservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.v16cartservice" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.v16cartservice.V16CartServiceApplicationTests" />
+      <option name="METHOD_NAME" value="testQuery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16CartServiceApplicationTests.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="v16-cart-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.v16cartservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.v16cartservice" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.v16cartservice.V16CartServiceApplicationTests" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16UserServiceApplicationTests.testIsLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="v16-user-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qf.v16userservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qf.v16userservice" />
+      <option name="MAIN_CLASS_NAME" value="com.qf.v16userservice.V16UserServiceApplicationTests" />
+      <option name="METHOD_NAME" value="testIsLogin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RebbitmqSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rebbitmq-springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.rebbitmqspringboot.RebbitmqSpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootEmailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-email" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.springbootemail.SpringbootEmailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootFastdfsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-fastdfs" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.springbootfastdfs.SpringbootFastdfsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootFreemarkerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-freemarker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.springbootfreemarker.SpringbootFreemarkerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-redis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.springbootredis.SpringbootRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringbootSolrApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-solr" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.springbootsolr.SpringbootSolrApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16BackgroundApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v16-background" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.v16background.V16BackgroundApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16CartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v16-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.v16cart.V16CartApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16CartServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v16-cart-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.v16cartservice.V16CartServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16HomeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v16-home" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.v16home.V16HomeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16IndexApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v16-index" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.v16index.V16IndexApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16ItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v16-item" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.V16ItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v16-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.v16order.V16OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16ProductServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v16-product-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.v16productservice.V16ProductServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16SearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v16-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.v16search.V16SearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16SearchServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v16-search-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.v16searchservice.V16SearchServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16SsoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v16-sso" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.v16sso.V16SsoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V16UserServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="v16-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qf.v16userservice.V16UserServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.V16UserServiceApplicationTests.testIsLogin" />
+      <item itemvalue="JUnit.V16CartServiceApplicationTests.testAdd" />
+      <item itemvalue="JUnit.V16CartServiceApplicationTests.testDel" />
+      <item itemvalue="JUnit.V16CartServiceApplicationTests.testUpdate" />
+      <item itemvalue="JUnit.V16CartServiceApplicationTests.testQuery" />
+      <item itemvalue="Spring Boot.V16ProductServiceApplication" />
+      <item itemvalue="Spring Boot.V16SearchServiceApplication" />
+      <item itemvalue="Spring Boot.V16UserServiceApplication" />
+      <item itemvalue="Spring Boot.V16CartServiceApplication" />
+      <item itemvalue="Spring Boot.V16BackgroundApplication" />
+      <item itemvalue="Spring Boot.V16HomeApplication" />
+      <item itemvalue="Spring Boot.V16SearchApplication" />
+      <item itemvalue="Spring Boot.V16ItemApplication" />
+      <item itemvalue="Spring Boot.V16SsoApplication" />
+      <item itemvalue="Spring Boot.V16CartApplication" />
+      <item itemvalue="Spring Boot.V16OrderApplication" />
+      <item itemvalue="Spring Boot.SpringbootSolrApplication" />
+      <item itemvalue="Spring Boot.V16IndexApplication" />
+      <item itemvalue="Spring Boot.RebbitmqSpringbootApplication" />
+      <item itemvalue="Spring Boot.SpringbootRedisApplication" />
+      <item itemvalue="Spring Boot.SpringbootFastdfsApplication" />
+      <item itemvalue="Spring Boot.SpringbootFreemarkerApplication" />
+      <item itemvalue="Spring Boot.SpringbootEmailApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.V16CartServiceApplicationTests.testQuery" />
+        <item itemvalue="JUnit.V16CartServiceApplicationTests.testUpdate" />
+        <item itemvalue="JUnit.V16CartServiceApplicationTests.testAdd" />
+        <item itemvalue="JUnit.V16CartServiceApplicationTests.testDel" />
+        <item itemvalue="JUnit.V16UserServiceApplicationTests.testIsLogin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\xiao\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d89c5559-9477-460b-833b-463602d41da8" name="Default Changelist" comment="" />
+      <created>1564964981310</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564964981310</updated>
+      <workItem from="1564964983983" duration="42454000" />
+      <workItem from="1565140281044" duration="23034000" />
+      <workItem from="1565224321606" duration="16666000" />
+      <workItem from="1565311223127" duration="9530000" />
+      <workItem from="1565399739645" duration="17822000" />
+      <workItem from="1565423727920" duration="249000" />
+      <workItem from="1565424025125" duration="3136000" />
+      <workItem from="1565484079088" duration="10383000" />
+      <workItem from="1565570146940" duration="17409000" />
+      <workItem from="1565659739815" duration="21415000" />
+      <workItem from="1565772570030" duration="260000" />
+      <workItem from="1565772848533" duration="57000" />
+      <workItem from="1565772924180" duration="13667000" />
+      <workItem from="1565796160917" duration="2589000" />
+      <workItem from="1565829209060" duration="2894000" />
+      <workItem from="1565839676602" duration="13408000" />
+      <workItem from="1565872593320" duration="8270000" />
+      <workItem from="1565915769857" duration="12151000" />
+      <workItem from="1566005770105" duration="18448000" />
+      <workItem from="1566092503379" duration="6534000" />
+      <workItem from="1566175636333" duration="23300000" />
+      <workItem from="1566261052031" duration="8153000" />
+      <workItem from="1566376446035" duration="4495000" />
+      <workItem from="1566442484366" duration="4767000" />
+      <workItem from="1566465276632" duration="1094000" />
+      <workItem from="1566466501263" duration="571000" />
+      <workItem from="1566467086611" duration="129000" />
+    </task>
+    <task id="LOCAL-00001" summary="1111">
+      <created>1566465026333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566465026333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="V16CartServiceApplicationTests_testDel - 2019.08.17 at 16h 03m 10s.xml">
+      <configuration name="V16CartServiceApplicationTests.testDel" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="V16CartServiceApplicationTests_testQuery - 2019.08.17 at 16h 04m 47s.xml">
+      <configuration name="V16CartServiceApplicationTests.testQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="V16CartServiceApplicationTests_testQuery - 2019.08.17 at 16h 06m 17s.xml">
+      <configuration name="V16CartServiceApplicationTests.testQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="V16CartServiceApplicationTests_testQuery - 2019.08.17 at 16h 06m 48s.xml">
+      <configuration name="V16CartServiceApplicationTests.testQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="V16CartServiceApplicationTests_testAdd - 2019.08.17 at 16h 17m 09s.xml">
+      <configuration name="V16CartServiceApplicationTests.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="V16CartServiceApplicationTests_testQuery - 2019.08.17 at 16h 17m 20s.xml">
+      <configuration name="V16CartServiceApplicationTests.testQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="V16CartServiceApplicationTests_testAdd - 2019.08.17 at 16h 17m 36s.xml">
+      <configuration name="V16CartServiceApplicationTests.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="V16CartServiceApplicationTests_testQuery - 2019.08.17 at 16h 17m 51s.xml">
+      <configuration name="V16CartServiceApplicationTests.testQuery" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="V16CartServiceApplicationTests_testUpdate - 2019.08.17 at 16h 18m 23s.xml">
+      <configuration name="V16CartServiceApplicationTests.testUpdate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="V16CartServiceApplicationTests_testQuery - 2019.08.17 at 16h 18m 32s.xml">
+      <configuration name="V16CartServiceApplicationTests.testQuery" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="282885000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49698794" visible="true" weight="0.25268096" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.50301206" side_tool="true" weight="0.22989276" />
+      <window_info id="Favorites" order="6" sideWeight="0.50301206" side_tool="true" weight="0.22989276" />
+      <window_info id="Web" order="7" sideWeight="0.50301206" side_tool="true" weight="0.22989276" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5162659" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3437058" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32390383" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32531825" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run Dashboard" order="17" weight="0.94908065" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3197051" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="10" side_tool="true" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49698794" visible="true" weight="0.24329759" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.50301206" side_tool="true" weight="0.22989276" />
+      <window_info id="Favorites" order="6" sideWeight="0.50301206" side_tool="true" weight="0.22989276" />
+      <window_info id="Web" order="7" sideWeight="0.50301206" side_tool="true" weight="0.22989276" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5162659" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32956153" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.3437058" />
+      <window_info anchor="bottom" id="Spring" order="7" weight="0.32956153" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32956153" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32390383" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32531825" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32956153" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.32956153" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="17" visible="true" weight="0.572843" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3197051" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297587" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" x="0" y="0" width="337" height="638" id="Documentation" order="10" side_tool="true" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1111" />
+    <option name="LAST_COMMIT_MESSAGE" value="1111" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/v16-service/v16-cart-service/src/main/java/com/qf/v16cartservice/interceptor/AuthInterceptor.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((LinkedHashMap.Entry)((LinkedHashMap)query.vals).entrySet().toArray()[3]).getKey()" custom="java.util.LinkedHashMap.Entry,java.util.LinkedHashMap" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/v16-service/v16-user-service/src/main/java/com/qf/v16userservice/util/JWTUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-order/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-order/src/main/java/com/qf/v16order/V16OrderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="72" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-order/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-item/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" selection-start-line="25" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-order/src/main/java/com/qf/v16order/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-396" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-service/v16-cart-service/v16-cart-service.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-basic/v16-common/src/main/java/com/qf/v16/common/base/constant/RabbitMQConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-cart/src/main/java/com/qf/v16cart/config/RabbitMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-cart/src/main/java/com/qf/v16cart/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-cart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="57" column="25" selection-start-line="57" selection-start-column="25" selection-end-line="57" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-basic/v16-entity/src/main/java/com/qf/v16/entity/TCart.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-service/v16-cart-service/src/main/java/com/qf/v16cartservice/service/CartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="57" selection-start-line="6" selection-start-column="57" selection-end-line="6" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-service/v16-cart-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="54" column="21" selection-start-line="50" selection-start-column="8" selection-end-line="54" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-service/v16-product-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="13" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-service/v16-product-service/src/main/java/com/qf/v16productservice/service/ProductTypeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-basic/v16-mapper/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" selection-start-line="24" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-basic/v16-mapper/src/main/java/com/qf/v16/mapper/TUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-background/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="55" selection-start-line="55" selection-end-line="60" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/tobato/fastdfs-client/1.26.1-RELEASE/fastdfs-client-1.26.1-RELEASE-sources.jar!/com/github/tobato/fastdfs/FdfsClientConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-background/src/main/java/com/qf/v16background/V16BackgroundApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-background/src/main/resources/templates/product/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="249" column="73" lean-forward="true" selection-start-line="249" selection-start-column="48" selection-end-line="249" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-background/src/main/java/com/qf/v16background/controller/FileController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-154">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-basic/v16-common/src/main/java/com/qf/v16/common/base/IBaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-basic/v16-common/src/main/java/com/qf/v16/common/base/IBaseService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-basic/v16-common/src/main/java/com/qf/v16/common/base/BaseServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="12" column="41" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-background/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-service/v16-product-service/src/main/java/com/qf/v16productservice/service/ProductServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-background/src/main/java/com/qf/v16background/config/RabbitmqConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-background/src/main/java/com/qf/v16background/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-search/src/main/java/com/qf/v16search/config/RabbitMQConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#659#660#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-web/v16-search/src/main/java/com/qf/v16search/handler/MessageHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-temp/rebbitmq-java/src/main/java/com/qf/rabbitmq/direct/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-temp/rebbitmq-java/src/main/java/com/qf/rabbitmq/direct/MyConsumer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-temp/rebbitmq-java/src/main/java/com/qf/rabbitmq/work/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-temp/jwt/src/test/java/com/qf/jwt/JWTTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-temp/rebbitmq-java/src/main/java/com/qf/rabbitmq/fanout/Producer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-temp/springboot-freemarker/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-temp/springboot-freemarker/src/main/java/com/qf/springbootfreemarker/SpringbootFreemarkerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-service/v16-product-service/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-temp/springdata-redis/src/main/resources/redis.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-temp/springdata-redis/src/main/java/com/qf/spring_data_redis/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-temp/springdata-redis/src/test/java/com/qf/springdataredis/RedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="42" column="59" selection-start-line="42" selection-start-column="59" selection-end-line="42" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-temp/springboot-freemarker/src/test/java/com/qf/springbootfreemarker/SpringbootFreemarkerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="37" column="51" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-service/v16-product-service/src/main/java/com/qf/v16productservice/config/CommonConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-basic/v16-mapper/src/main/java/com/qf/v16/mapper/TCartMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-basic/v16-mapper/src/main/java/com/qf/v16/mapper/TProductDescMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-basic/v16-mapper/src/main/java/com/qf/v16/mapper/TProductMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3476">
+          <caret line="158" column="2" selection-start-line="158" selection-start-column="2" selection-end-line="158" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/v16-basic/v16-mapper/src/main/java/com/qf/v16/mapper/TProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>rebbitmqjava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

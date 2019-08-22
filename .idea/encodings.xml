@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/v16-service/v16-cart-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-service/v16-product-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-service/v16-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-service/v16-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-temp/rebbitmq-springboot" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-temp/springboot-email" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-temp/springboot-fastdfs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-temp/springboot-freemarker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-temp/springboot-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-temp/springboot-solr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-web/v16-background" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-web/v16-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-web/v16-home" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-web/v16-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-web/v16-order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-web/v16-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/v16-web/v16-sso" charset="UTF-8" />
+  </component>
+</project>

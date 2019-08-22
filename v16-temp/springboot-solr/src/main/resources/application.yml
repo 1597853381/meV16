@@ -1,0 +1,4 @@
+spring:
+  data:
+    solr:
+      host: http://39.107.252.103:8081/solr

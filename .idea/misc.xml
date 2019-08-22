@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="Spring" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-service/v16-product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-background/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-temp/springboot-fastdfs/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-home/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-web/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-temp/springboot-solr/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-service/v16-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-search/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-temp/springboot-freemarker/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-item/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-temp/rebbitmq-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-temp/springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-temp/springboot-email/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-service/v16-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-oos/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-service/v16-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/v16-web/v16-order/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

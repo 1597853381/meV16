@@ -1,0 +1,35 @@
+
+dubbo:
+  application:
+    name: user-api
+  registry:
+    protocol: zookeeper
+    address: 39.107.252.103:2181
+  protocol:
+    port: 20882
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 123
+    url: jdbc:mysql://localhost:3306/v16?useUnicode=true&characterEncoding=utf-8&serverTimezone=UTC
+  redis:
+    host: 39.107.252.103
+    port: 6379
+    password: "123"
+    jedis:
+      pool:
+        max-active: 66
+#    BsoHvGztsBIJvfgNx3z3QJXh1Q6Lw3jX4AfBFf3E3EfUtHkc78haxHu1EpKPRdLiIU0O5rmk3ZawAWC0EkAvnw==
+#    druid:
+#          initial-size: 10
+#          max-active: 100
+#          min-idle: 10
+#          filter:
+#            config:
+#              enabled: true
+#          connection-properties: config.decrypt=true;config.decrypt.key=${public-key}
+#publicKey: MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAIJYf+tT6xAojyzf2tiDAYCHDIoN7gyJfz/6Ppnc5x89muxWleII4Bgy738D7wEzB5oh8+WtS9G9Y88IsULkDLUCAwEAAQ==
+
+server:
+  port: 8882

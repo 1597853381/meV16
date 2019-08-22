@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rebbitmq-springboot" />
+        <module name="v16-cart" />
+        <module name="springdata-redis" />
+        <module name="v16-entity" />
+        <module name="v16-cart-service" />
+        <module name="springboot-email" />
+        <module name="springboot-redis" />
+        <module name="v16-product-service" />
+        <module name="v16-search" />
+        <module name="rebbitmqjava" />
+        <module name="jwt" />
+        <module name="v16searchapi" />
+        <module name="v16-home" />
+        <module name="v16-search-service" />
+        <module name="v16-index" />
+        <module name="v16-order" />
+        <module name="v16-product-api" />
+        <module name="v16-item" />
+        <module name="v16-user-service" />
+        <module name="v16-mapper" />
+        <module name="springboot-solr" />
+        <module name="v16-background" />
+        <module name="v16-cart-api" />
+        <module name="v16service" />
+        <module name="v16-common" />
+        <module name="v16-user-api" />
+        <module name="v16-sso" />
+        <module name="springboot-fastdfs" />
+        <module name="jedis" />
+        <module name="springboot-freemarker" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="v16web" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="rebbitmq-springboot" options="-parameters" />
+      <module name="springboot-email" options="-parameters" />
+      <module name="springboot-fastdfs" options="-parameters" />
+      <module name="springboot-freemarker" options="-parameters" />
+      <module name="springboot-redis" options="-parameters" />
+      <module name="springboot-solr" options="-parameters" />
+      <module name="v16-background" options="-parameters" />
+      <module name="v16-cart" options="-parameters" />
+      <module name="v16-cart-service" options="-parameters" />
+      <module name="v16-home" options="-parameters" />
+      <module name="v16-index" options="-parameters" />
+      <module name="v16-item" options="-parameters" />
+      <module name="v16-order" options="-parameters" />
+      <module name="v16-product-service" options="-parameters" />
+      <module name="v16-search" options="-parameters" />
+      <module name="v16-search-service" options="-parameters" />
+      <module name="v16-sso" options="-parameters" />
+      <module name="v16-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>
