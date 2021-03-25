@@ -27,4 +27,6 @@ public class ProductVO implements Serializable {
     public void setProductDesc(String productDesc) {
         this.productDesc = productDesc;
     }
+
+
 }
